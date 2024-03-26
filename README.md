@@ -1,7 +1,5 @@
 # lucky-spoon
 
-II.Your AI idea
-
 The optional final task of this course consists of your own AI idea. We are not giving you a made-up problem to solve. Instead, we want to hear what kind of a problem you'd like to solve using AI – and how.
 
 So far, you have worked within the safe harbor of this course. The goal was to let you focus on the content instead of learning to install and use new applications and systems. The content was structured as small nuggets that you could solve one at a time to eventually construct the bigger picture – not unlike a jigsaw puzzle.
